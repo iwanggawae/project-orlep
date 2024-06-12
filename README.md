@@ -1,4 +1,4 @@
-# **Super Data Generator**
+# **ORGANOLEPTIC PROJECT**
 This project is a simple Python script to randomly generate organoleptic data with customizable numbers of participants and parameters. The resulting data will be saved in Excel format (`hasil_organoleptik.xlsx`). The data generated will be 100% similar to data processed with SPSS.
 
 _Skrip Python sederhana untuk menghasilkan data organoleptik secara acak dengan jumlah partisipan dan parameter yang dapat disesuaikan. Data yang dihasilkan akan disimpan dalam format Excel_ (`hasil_organoleptik.xlsx`). _Data yang dihasilkan 100% sama seperti olah data dengan SPSS._
